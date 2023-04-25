@@ -1,2 +1,2 @@
 # nft2023
-nft2023
+SeoulTech_NFT 2023
