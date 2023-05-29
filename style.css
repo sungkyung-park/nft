@@ -125,7 +125,7 @@ footer .footer-info {
 .bg {
   grid-area: bg;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://github.com/sungkyung-park/meta2022/blob/main/img/holly.jpg?raw=true");
+    url("https://github.com/sungkyung-park/nft/blob/main/img/holly.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
